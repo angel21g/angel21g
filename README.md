@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I am a person passionate about continuous learning, constantly seeking to enhance my technical skills to deliver better performance. My mindset is always geared towards innovation, exploring new ways to acquire knowledge and applying it effectively.
+
 - 🔭 I’m currently studying systems engineering on Private University of the North
 - 🌱 I’m currently learning python programming 
 - 📫 How to reach me:  www.linkedin.com/in/angel-melchor-guevara-405b06161
