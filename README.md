@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying systems engineering
+- 🔭 I’m currently studying systems engineering on Private University of the North
 - 🌱 I’m currently learning python programming 
 - 📫 How to reach me:  www.linkedin.com/in/angel-melchor-guevara-405b06161
 <!--
