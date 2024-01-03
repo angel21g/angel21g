@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studying systems engineering
+- 🌱 I’m currently learning python programming 
+- 📫 How to reach me:  www.linkedin.com/in/angel-melchor-guevara-405b06161
 <!--
 **angel21g/angel21g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
